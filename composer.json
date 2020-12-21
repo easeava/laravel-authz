@@ -21,7 +21,7 @@
     "license": "Apache-2.0",
     "require": {
         "php": ">=7.1.0",
-        "laravel/framework": "~5.5|~6.0|~7.0",
+        "laravel/framework": "~5.5|~6.0|~7.0|~8.0",
         "casbin/casbin": "~2.0",
         "casbin/psr3-bridge": "^1.1"
     },
